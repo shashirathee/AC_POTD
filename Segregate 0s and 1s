@@ -1,0 +1,2 @@
+while(arr[l]==0 && l<h){
+                l+
