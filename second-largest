@@ -25,6 +25,6 @@ int print2largest(int arr[], int n) {
 	   }
 	   if( smax== INT_MIN){
 	       return -1;
-	   }
+	    }
 	   return smax;
 	}
